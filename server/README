@@ -1,0 +1,3 @@
+Copy .env.template to .env to the root of the project in the root of the project 
+Update the values in the .env (If you dont have a public server, use ngrok, port 9000 by default, and use the fqdn as the APP_URL in the .env file)
+Start node /bin/www

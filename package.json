@@ -1,8 +1,8 @@
 {
-  "name": "plugin-conversation-pause",
+  "name": "plugin-conversation-pause-transfer",
   "version": "1.0.0",
   "private": true,
-  "description": "Allows agents to pause work on a conversation task and keep the history when the customer sends a new message",
+  "description": "Allows agents to pause and transfer work on a conversation task and keep the history when the customer sends a new message",
   "scripts": {
     "postinstall": "flex-plugin pre-script-check",
     "lint": "eslint --ext js src/ functions/functions/",
