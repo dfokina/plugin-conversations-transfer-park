@@ -1,4 +1,4 @@
-import * as FlexPlugin from '@twilio/flex-plugin';
+import * as FlexPlugin from '@twilio-labs/plugin-flex';
 
 import ConversationPausePlugin from './ConversationPausePlugin';
 
