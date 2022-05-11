@@ -1,7 +1,7 @@
 import { Actions, TaskHelper, Manager, Notifications, StateHelper } from '@twilio/flex-ui';
 import fetch from 'node-fetch';
 
-const SERVER_URL = 'https://98a3-2601-648-8682-d360-7d1d-bb5c-28df-400f.ngrok.io';
+const SERVER_URL = 'https://9b2e-95-82-134-94.eu.ngrok.io';
 
 // Once you publish the chat transfer function, place the returned domain in your version of the plugin.
 
